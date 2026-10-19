@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    image: safarov-islam-devops
+    container_name: safarov-islam-container
+    environment:
+      - STUDENT_NAME=Islam
+      - STUDENT_SURNAME=Safarov
+      - STUDENT_GROUP=IT2-2303
+      - STUDENT_ID=38061
