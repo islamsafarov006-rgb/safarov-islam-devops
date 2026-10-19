@@ -1,0 +1,5 @@
+Name: Islam
+Surname: Safarov
+Group: IT2-2303
+Student ID: 38061
+Course: DevOps
